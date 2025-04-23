@@ -6,3 +6,4 @@ Funcionalidades:
  - **TryParse** - para garantir que a entrada de dados do usuário seja válida.
 - **Switch** - para escolher qual operação matemática realizar.
 - **If** - para lidar com casos especiais, como divisão por zero.
+- **Goto** - para retornar a um ponto específico no código.
