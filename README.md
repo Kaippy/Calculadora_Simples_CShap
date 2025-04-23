@@ -1,7 +1,7 @@
 ## Calculadora Simples
 ##### _Essa calculadora utiliza operadores básicos na matemática e código simples, apenas para afins de estudo._
 <br>
-#### Funcionalidades: 
+Funcionalidades: 
 
  - **TryParse** - para garantir que a entrada de dados do usuário seja válida.
 - **Switch** - para escolher qual operação matemática realizar.
